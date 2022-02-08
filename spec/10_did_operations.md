@@ -228,7 +228,7 @@ If the parameter `versionTime` is used, the `GET_NYM` transaction is called with
 
 ### Deactivate
 
-Deactivtion of a `did:indy` DID is done by setting the [[ref: NYM]] verkey to null. Once done, the DIDDoc is not found (per
+Deactivation of a `did:indy` DID is done by setting the [[ref: NYM]] verkey to null. Once done, the DIDDoc is not found (per
 the [DIDDoc Assembly Rules](#diddoc-assembly-steps)) and the [[ref: NYM]] cannot be updated again.
 
 ::: warning dead link
